@@ -16,6 +16,8 @@ The analysis was performed using the theater (Main Category), relating this cate
 
 
 
+![](Theater-Outcomes-Date.png)
+
 
  
 This graph shows that May is the best month for theater, is when more people goes to theater.
@@ -26,7 +28,7 @@ Here we noticed that less than 1,000 people goes to theater. Based on the range 
 
 
 
-
+![](Outcomes-Based-on-Goal.png)
 
 
 
